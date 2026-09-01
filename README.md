@@ -121,11 +121,5 @@ It then parses the entry table, validates each DTB has the correct FDT magic (`0
 
 ## License
 
-MIT License
+MIT License — see [LICENSE](LICENSE) for details.
 
-Copyright (c) 2026 Dr. TeaBread (LinearTeam)
-
-## Author
-
-- **Dr. TeaBread** (LinearTeam)
-- Contact: linearteam@foxmail.com
