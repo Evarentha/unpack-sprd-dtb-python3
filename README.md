@@ -1,7 +1,5 @@
 # unpack-sprd-dtb-python3
 
-Python3 tool to extract DTB/DTBO files from Spreadtrum (SPRD) and Android DTBO firmware images.
-
 Python utility to extract Device Tree Blobs (DTB/DTBO) from Spreadtrum (SPRD) and Android DTBO images.
 
 ## Overview
