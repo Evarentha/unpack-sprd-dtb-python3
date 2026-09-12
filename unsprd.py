@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 #
-# Author: Dr. TeaBread
-# Team: LinearTeam
-# Contact: linearteam@foxmail.com
+# SPRD / Android DTBO DTB Extractor
 #
-# Copyright (c) 2026 Dr. TeaBread (LinearTeam)
+# Extracts DTB files from SPRD container images and Android DTBO images.
+#
+# Authors:
+# Dr. TeaBread <teabread233@126.com> @LinearTeam
+#
+# Copyright (C) 2026 Evarentha
 # SPDX-License-Identifier: MIT
-#
 
 """
 SPRD / Android DTBO DTB Extractor
