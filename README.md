@@ -121,5 +121,5 @@ It then parses the entry table, validates each DTB has the correct FDT magic (`0
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT, Copyright (C) 2026 Evarentha. See [LICENSE](LICENSE).
 
